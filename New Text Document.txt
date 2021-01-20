@@ -1,0 +1,4 @@
+I think the simialrites and differances between GUI and command lines is quite interesting. GUI is much 
+more straight forward and easy to comperhand and is defeinetly the most consumer friendly, I do think there is an art
+to it by making it look aesethically pleasing and easy to naviagte. Command lines may seem scary at first but it is 
+an easy enough concept to wrap your head around once you understand that it is like a GUI but much more technical. 
